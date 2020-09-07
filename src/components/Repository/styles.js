@@ -36,9 +36,12 @@ export default StyleSheet.create({
   },
   button: {
     marginTop: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: "#7159c1",
   },
   buttonText: {
-    fontSize: 14,
+    fontSize: 16,
     fontWeight: "bold",
     marginRight: 10,
     color: "#fff",
